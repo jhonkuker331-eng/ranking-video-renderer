@@ -1,0 +1,13 @@
+{
+  "name": "ranking-video-renderer",
+  "version": "1.0.0",
+  "description": "FFmpeg video renderer for Ranking Video Creator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  }
+}
